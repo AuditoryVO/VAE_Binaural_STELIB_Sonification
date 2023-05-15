@@ -4,7 +4,10 @@ This repository contains two Jupyter notebooks used in the devopment of a three 
 
 The first notebook (6D-VAE_STELIB-augmented.ipynb), is used to generate a six-dimensional variational autoencoder model that converts the stellar spectra into four-notes chords.
 
-The second notebook (STELIB_Multimodal.ipynb), extracts the coordinates of the objects and sends OSC messages to a synthesizer. In our case study, the synthesizer was implemented using CSound-Cabbage. https://cabbageaudio.com/
+The second notebook (STELIB_Multimodal.ipynb), extracts the coordinates of the objects, calculates the graphics, converts the sppectra to chords and sends the output images and OSC messages to a multimodal display. 
+
+In our case study, the multimodal display is implemented in CSound-Cabbage and is available as .csd file (STELIB-Explorer.csd).
+Cabbage includes CSound and can be downloaded at: https://cabbageaudio.com/
 
 This research is based on data from the STELIB service developed by the Spanish Virtual Observatory in the framework of the IAU Comission G5 Working Group : Spectral Stellar Libraries.
 
