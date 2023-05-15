@@ -1,0 +1,11 @@
+aplpy==2.1.0
+astropy==5.1
+astroquery==0.4.2.dev0
+matplotlib==3.6.0
+MOCPy==0.8.4
+numpy==1.22.3
+pandas==1.5.0
+plotly==5.13.0
+python_osc==1.7.4
+scikit_learn==1.1.2
+tensorflow==2.9.1
