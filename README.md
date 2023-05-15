@@ -6,8 +6,8 @@ The first notebook (6D-VAE_STELIB-augmented.ipynb), is used to generate a six-di
 
 The second notebook (STELIB_Multimodal.ipynb), extracts the coordinates of the objects, calculates the graphics, converts the sppectra to chords and sends the output images and OSC messages to a multimodal display. 
 
-In our case study, the multimodal display is implemented in CSound-Cabbage and is available as .csd file (STELIB-Explorer.csd).
-Cabbage includes CSound and can be downloaded at: https://cabbageaudio.com/
+In our case study, the multimodal display is implemented in CSound-Cabbage and is also provided as a .csd file (STELIB-Explorer.csd).
+Cabbage includes CSound sound engine and can be downloaded from: https://cabbageaudio.com/
 
 This research is based on data from the STELIB service developed by the Spanish Virtual Observatory in the framework of the IAU Comission G5 Working Group : Spectral Stellar Libraries.
 
