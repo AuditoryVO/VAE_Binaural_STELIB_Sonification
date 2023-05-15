@@ -1,5 +1,5 @@
 ## 3D-Binaural-STELIB
-![image](https://github.com/AdrianGRiber/3D-Binaural-STELIB/assets/79482127/e17b5dc0-caea-4bff-b4cb-d6589937eba2)
+![image](https://github.com/AdrianGRiber/3D-Binaural-STELIB/assets/79482127/f59a2f54-a8ba-4edb-a31b-75a16024d7f3)
 This repository contains two Jupyter notebooks used in the devopment of a three dimensional binaural stellar spectra sonification prototype that explores the STELIB stellar spectra from the Spanish Virtual Observatory.
 
 The first notebook (6D-VAE_STELIB-augmented.ipynb), is used to generate a six-dimensional variational autoencoder model that converts the stellar spectra into four-notes chords.
