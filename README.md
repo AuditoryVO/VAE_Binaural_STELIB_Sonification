@@ -1,4 +1,4 @@
-## 3D Binaural Stellar Spectra exploration prototype. Case study: STELIB library (SVO).
+## VAE Binaural Stellar Spectra exploration prototype. Case study: STELIB library (SVO).
 ![Stelib_Explorer](https://github.com/AdrianGRiber/3D-Binaural-STELIB/assets/79482127/ff402adb-7366-4023-be9d-e36792a75dc8)
 
 This repository contains two Jupyter notebooks used in the devopment of a three dimensional binaural sonification prototype that explores the STELIB stellar spectra library from the Spanish Virtual Observatory.
