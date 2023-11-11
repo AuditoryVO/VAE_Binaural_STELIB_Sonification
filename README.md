@@ -20,6 +20,7 @@ INSTALLATION
 2- Download Cabbage from: https://cabbageaudio.com/download/ 
 
 3- Only Install Cabbage from the downloaded package. 
+
    Note: The latest version of Cabbage allows to optionally install the latest version of CSound. This option should be unchecked not to overwrite CSound 6.15.
    The latest version of CSound requires additional plugins to work with image CSound opcodes, so it should not be used.
 
