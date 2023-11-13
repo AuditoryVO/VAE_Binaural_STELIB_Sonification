@@ -35,7 +35,7 @@ INSTALLATION
 
 3- Install only Cabbage from the downloaded Cabbage package.
 
-   Note: The latest version of Cabbage allows to optionally install the latest version of CSound. This default option should be unchecked not to overwrite CSound 6.15.
+   Warning: The latest version of Cabbage allows to optionally install the latest version of CSound. This default option should be unchecked not to overwrite CSound 6.15.
    Latests versions of CSound require additional plugins to work with the image CSound opcodes, so they should not be used.
 
 4- Download the data from: http://svocats.cab.inta-csic.es/stelib/index.php?action=search
