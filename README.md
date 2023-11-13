@@ -15,12 +15,14 @@ This research is based on data from the STELIB service developed by the Spanish 
 
 CONTENTS
 
-- Jupyter notebook 1: VAE-Demo.ipynb
-- Jupyter notebook 2: VAE2Chords-Demo.ipynb
-- Jupyter notebook 3: VAE2Notes-Demo.ipynb
-- CSound/Cabbage file: VAE2Sound.csd
-- Cabbage mask file: Init2.png
-- Sample spectrum: Autoencoder.png
+- Jupyter notebook 1: 6D-VAE_STELIB-augmented.ipynb
+- Jupyter notebook 2: Stelib-Multimodal.ipynb
+- CSound/Cabbage file: STELIB-Explorer.csd
+- Sample images: Sky.png, Star.png, and Plot.png
+- Cabbage mask files: Init.png, Init2.png, and Init3.png
+- HRTF files: hrtf-48000-left.dat, and hrtf-48000-right.dat
+- LICENSE
+- README
 - requirements.txt
 
 
@@ -42,7 +44,7 @@ INSTALLATION
 
 6- Launch Cabbage, open Stelib_Explorer.csd, and press play
 
-7- Run all Jupyter notebook cells to start the sequential exploration
+7- Run all cells in Jupyter notebook 2 (Stelib-Multimodal.ipynb) to start the sequential exploration
 
 Enjoy the sonifications!
 
