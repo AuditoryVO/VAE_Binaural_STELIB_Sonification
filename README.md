@@ -44,7 +44,7 @@ INSTALLATION
 
 6- Launch Cabbage, open Stelib_Explorer.csd, and press play
 
-7- Run all cells in Jupyter notebook 2 (Stelib-Multimodal.ipynb) to start the sequential exploration
+7- Add your path to the downloaded files and run all the cells of Jupyter notebook 2 (Stelib-Multimodal.ipynb) to the sequence
 
 Enjoy the sonifications!
 
