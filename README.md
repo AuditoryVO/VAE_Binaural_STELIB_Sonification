@@ -44,7 +44,7 @@ INSTALLATION
 
 6- Launch Cabbage, open Stelib_Explorer.csd, and press play
 
-   Important note: Cabbage 2.9.0 requires CamelCase update via: File/Convert Identifiers to camelCase. Also change manually “PluginID” to “PulginId” to avoid warnings.
+   Important note: Cabbage 2.9.0 requires CamelCase update via: File/Convert Identifiers to camelCase. Also change manually “PluginID” to “PluginId” to avoid warnings.
 
 7- Add your path to the downloaded files and run all the cells of Jupyter notebook 2 (Stelib-Multimodal.ipynb) to the sequence
 
